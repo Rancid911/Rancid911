@@ -7,7 +7,7 @@ Web Developer and Designer
 I have been learning web development for 2 years. Have a passion for clean and concise code on React.
 
 * 🌍  I'm based in Naberezhnye Chelny, Russia
-* ✉️  You can contact me at [rancid911@yandex.ru](mailto:rancid911@yandex.ru)
+* ✉️  You can contact me at [anth.ivanov@gmail.com](mailto:anth.ivanov@gmail.com)
 * 🧠  I'm learning React, React Router, Redux
 
 ### Skills
